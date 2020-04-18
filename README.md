@@ -1,3 +1,6 @@
+From the Andrew Mead youtube course "The Great Gatsby Bootcamp", https://www.youtube.com/watch?v=8t0vNu2fCCM&t=16064s
+
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
